@@ -1,4 +1,4 @@
-﻿using System;
+﻿using MyTodoApp.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,7 +11,8 @@ namespace MyTodoApp.Data;
             : base(options)
         {
         }
-
+        
+        public DbSet<Todo> Todos {get; set;}
         
     }
 

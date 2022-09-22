@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\projectdotnet\\MyTodoApp\\MyTodoApp.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\projectdotnet\\MyTodoApp\\MyTodoApp.csproj": {
+    "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\projectdotnet\\MyTodoApp\\MyTodoApp.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj",
         "projectName": "MyTodoApp",
-        "projectPath": "C:\\Users\\aluno\\projectdotnet\\MyTodoApp\\MyTodoApp.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\projectdotnet\\MyTodoApp\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -57,11 +57,27 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.9, )"
             }

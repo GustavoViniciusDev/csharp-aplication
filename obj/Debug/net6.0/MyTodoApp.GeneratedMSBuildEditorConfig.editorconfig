@@ -8,45 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyTodoApp
 build_property.RootNamespace = MyTodoApp
-build_property.ProjectDir = C:\Users\aluno\projectdotnet\MyTodoApp\
+build_property.ProjectDir = C:\Users\aluno\Desktop\csharp-aplication\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aluno\projectdotnet\MyTodoApp
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\aluno\Desktop\csharp-aplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Home/Index.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Home/Privacy.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Shared/Error.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/_ViewImports.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/TodoCOntroller/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0NPbnRyb2xsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno/Desktop/csharp-aplication/Views/TodoCOntroller/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0NPbnRyb2xsZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno/Desktop/csharp-aplication/Views/TodoCOntroller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0NPbnRyb2xsZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno/Desktop/csharp-aplication/Views/TodoCOntroller/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0NPbnRyb2xsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno/Desktop/csharp-aplication/Views/TodoCOntroller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0NPbnRyb2xsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno/Desktop/csharp-aplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/_ViewStart.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno/projectdotnet/MyTodoApp/Views/Shared/_Layout.cshtml]
+[C:/Users/aluno/Desktop/csharp-aplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-auvzq10hpx
