@@ -17,6 +17,7 @@ namespace MyTodoApp
         public TodoCOntroller(ApplicationDbContext context)
         {
             _context = context;
+
         }
 
         // GET: TodoCOntroller
@@ -30,6 +31,12 @@ namespace MyTodoApp
         // GET: TodoCOntroller/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+
+            if(id == null)
+            {
+                return NotFound();
+            }
+
             if (id == null || _context.Todos == null)
             {
                 return NotFound();

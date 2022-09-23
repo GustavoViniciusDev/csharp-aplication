@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyTodoApp
 build_property.RootNamespace = MyTodoApp
-build_property.ProjectDir = D:\Projetos\csharp-application\
+build_property.ProjectDir = C:\Users\aluno\Desktop\csharp-application\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\Projetos\csharp-application
+build_property.MSBuildProjectDirectory = C:\Users\aluno\Desktop\csharp-application
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Home/Index.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Shared/Error.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Todo/Create.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Todo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Todo/Delete.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Todo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Todo/Details.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Todo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Todo/Edit.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Todo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Todo/Index.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Todo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/_ViewImports.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/_ViewStart.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/csharp-application/Views/Shared/_Layout.cshtml]
+[C:/Users/aluno/Desktop/csharp-application/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-auvzq10hpx
