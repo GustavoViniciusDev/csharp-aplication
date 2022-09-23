@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj": {}
+    "D:\\Projetos\\csharp-application\\MyTodoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj": {
+    "D:\\Projetos\\csharp-application\\MyTodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj",
+        "projectUniqueName": "D:\\Projetos\\csharp-application\\MyTodoApp.csproj",
         "projectName": "MyTodoApp",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\MyTodoApp.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\csharp-aplication\\obj\\",
+        "projectPath": "D:\\Projetos\\csharp-application\\MyTodoApp.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\csharp-application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
         }
       }
     }
